@@ -5,12 +5,18 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint --fix"
   },
   "dependencies": {
+    "@form-create/element-ui": "^1.0.18",
+    "@vue/composition-api": "^1.0.0-beta.11",
+    "classnames": "^2.2.6",
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "lodash": "^4.17.20",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
+    "vuedraggable": "^2.24.1",
     "vuex": "^3.4.0"
   },
   "devDependencies": {
