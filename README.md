@@ -1,4 +1,12 @@
-# vd
+<!--
+ * @Author        : djkloop
+ * @Date          : 2020-09-04 16:38:54
+ * @LastEditors   : djkloop
+ * @LastEditTime  : 2020-09-07 12:17:28
+ * @Description   : 头部注释
+ * @FilePath      : /vd/README.md
+-->
+# vuedraggable-issuse-error
 
 ## Project setup
 ```
@@ -10,15 +18,9 @@ yarn install
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+```javascript
 
-### Lints and fixes files
-```
-yarn lint
-```
+/// Uncaught TypeError: Cannot read property 'element' of null
+/// src/views/Home.vue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
