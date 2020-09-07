@@ -2,7 +2,7 @@
  * @Author        : djkloop
  * @Date          : 2020-09-04 16:38:54
  * @LastEditors   : djkloop
- * @LastEditTime  : 2020-09-07 12:17:28
+ * @LastEditTime  : 2020-09-07 12:23:05
  * @Description   : 头部注释
  * @FilePath      : /vd/README.md
 -->
@@ -24,3 +24,5 @@ yarn serve
 /// src/views/Home.vue
 
 ```
+
+![avatar](/issuse.gif)
