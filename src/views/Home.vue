@@ -86,8 +86,9 @@ ul {
     <el-container>
       <el-aside width="350px">
         <div class="form-widget-list">
+          <!-- This has become a list, but still the same error -->
           <draggable
-            v-model="components"
+            :list="components"
             tag="ul"
             v-bind="draggableOptions"
             :clone="useFormatDragItem"
